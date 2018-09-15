@@ -12,3 +12,12 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+UE4ProjectRenamer/UE4ProjectRenamer/UE4ProjectRenamer\.csproj
+
+UE4ProjectRenamer\.exe
+
+UE4ProjectRenamer/UE4ProjectRenamer/App\.config
+
+UE4ProjectRenamer/UE4ProjectRenamer/Program\.cs
+
+UE4ProjectRenamer/UE4ProjectRenamer/Properties/AssemblyInfo\.cs
