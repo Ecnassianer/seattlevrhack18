@@ -1,0 +1,8 @@
+{
+	"BuildId": "4212847",
+	"Modules": 
+	{
+		"PlasticSourceControl": "UE4Editor-PlasticSourceControl.dll",
+		"XmlParser2": "UE4Editor-XmlParser2.dll"
+	}
+}
